@@ -29,6 +29,7 @@ main{
     margin-left: -500px;
 }
 p{
+    font-size: 23px;
     display: flex;
     max-width: 600px;
     text-align:justify;
